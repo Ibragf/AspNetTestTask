@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HFzS9rmCH9VYR/RuDl8Aaa3Ib07fdWqvusdBFm1V4FQ=",
+  "Source": "AspNetTestTask",
+  "BasePath": "_content/AspNetTestTask",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
